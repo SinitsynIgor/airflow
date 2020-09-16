@@ -44,7 +44,7 @@ def read_table_send_message():
     '''
         )
 
-    # вконтакте не использую, поэтому отправляю в телеграм
+    # send to telegram
     token = '1292472120:AAFFDL2FSecU7Y39fpyTN3hxGSKqrgjbpM'
     chat_id = 34681220
 
